@@ -7,9 +7,7 @@ public:
             int cnt=0;
             for(int j=i;j<n;j++){
                 cnt+=(nums[j]==target?1:-1);
-                if(cnt>0){
-                    ans++;
-                }
+                if(cnt>0)ans++;
             }
         }
         return ans;
