@@ -39,9 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
