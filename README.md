@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/rak123456805/LeetCode_Practice/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/rak123456805/LeetCode_Practice/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
 | ------- |
