@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-number-of-matching-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rak123456805/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rak123456805/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-number-of-matching-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
 ## Trie
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Design
+|  |
+| ------- |
+| [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
 <!---LeetCode Topics End-->
