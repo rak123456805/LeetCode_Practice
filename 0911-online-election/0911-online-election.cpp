@@ -5,17 +5,13 @@ public:
 
     TopVotedCandidate(vector<int>& persons, vector<int>& times) {
         this->times = times;
-
-        unordered_map<int, int> cnt;
-        int win = -1;
-
-        for (int p : persons) {
-            cnt[p]++;
-
-            if (win == -1 || cnt[p] >= cnt[win]) {
-                win = p;  // latest vote wins in a tie
+         int win=-1;
+        unordered_map<int,int>mp;
+        for(auto &p : persons){
+            mp[p]++;
+            if(win==-1 || mp[p]>=mp[win]){
+                win=p;
             }
-
             leader.push_back(win);
         }
     }
