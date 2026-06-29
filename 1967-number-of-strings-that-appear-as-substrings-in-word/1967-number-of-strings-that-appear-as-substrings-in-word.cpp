@@ -2,11 +2,18 @@ class Solution {
 public:
     int numOfStrings(vector<string>& patterns, string word) {
         auto ans=0;
-        int n=patterns.size();
-        for(int i=0;i<n;i++){
-            string pattern=patterns[i];
-            if(word.find(pattern)!=string::npos){
-                ans++;
+        for(auto &x : patterns){
+            bool found=false;
+            for(int i=0;i<word.size()&&!found;i++){
+                string cnt="";
+                for(int j=i;j<word.size();j++){
+                    cnt+=word[j];
+                    if(x==cnt){
+                        ans++;
+                        found=true;
+                        break;
+                    }
+                }
             }
         }
         return ans;
