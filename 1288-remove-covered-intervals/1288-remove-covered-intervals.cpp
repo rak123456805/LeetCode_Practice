@@ -6,17 +6,15 @@ public:
                 return a[1] > b[1];
             return a[0] < b[0];
         });
-        int n = intervals.size();
-        int end = intervals[0][1];
-
-        for (int i = 1; i < intervals.size(); i++) {
-            if (intervals[i][1] <= end) {
-                n--;
-            } else {
-                end = intervals[i][1];
+        int count=0;
+        int end=0;
+        for(auto &it : intervals){
+            if(it[1]>end){
+                count++;
+                end=it[1];
             }
         }
 
-        return n;
+        return count;
     }
 };
