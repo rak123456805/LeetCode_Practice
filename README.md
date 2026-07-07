@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Game Theory
 |  |
 | ------- |
