@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/rak123456805/LeetCode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rak123456805/LeetCode_Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0754-reach-a-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0754-reach-a-number) |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Game Theory
