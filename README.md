@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/rak123456805/LeetCode_Practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/rak123456805/LeetCode_Practice/tree/master/0091-decode-ways) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/rak123456805/LeetCode_Practice/tree/master/0583-delete-operation-for-two-strings) |
