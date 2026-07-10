@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rak123456805/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rak123456805/LeetCode_Practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rak123456805/LeetCode_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rak123456805/LeetCode_Practice/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rak123456805/LeetCode_Practice/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/rak123456805/LeetCode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -221,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rak123456805/LeetCode_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rak123456805/LeetCode_Practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -240,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
