@@ -19,13 +19,17 @@ public:
     }
 
     int getKthAncestor(int node, int k) {
+        long long p = 1;
+
         for (int i = 0; i < col; i++) {
-            if ((k / (1 << i)) % 2) {
+            if ((k / p) % 2) {
                 node = ansistor[node][i];
                 if (node == -1)
                     return -1;
             }
+            p *= 2;
         }
+
         return node;
     }
 };
