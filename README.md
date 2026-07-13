@@ -279,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/rak123456805/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rak123456805/LeetCode_Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
