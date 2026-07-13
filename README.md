@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/rak123456805/LeetCode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rak123456805/LeetCode_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/rak123456805/LeetCode_Practice/tree/master/1124-longest-well-performing-interval) |
 | [1331-rank-transform-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rak123456805/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 ## Rolling Hash
 |  |
 | ------- |
