@@ -1,8 +1,8 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int n=nums.size();
-        return gcd(nums[0],nums[n-1]);
+        int m=*min_element(nums.begin(),nums.end());
+        int n=*max_element(nums.begin(),nums.end());
+        return gcd(m,n);
     }
 };
