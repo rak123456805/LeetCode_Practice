@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rak123456805/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0754-reach-a-number) |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Game Theory
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/rak123456805/LeetCode_Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rak123456805/LeetCode_Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
