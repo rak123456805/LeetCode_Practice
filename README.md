@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/rak123456805/LeetCode_Practice/tree/master/0826-most-profit-assigning-work) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/rak123456805/LeetCode_Practice/tree/master/0709-to-lower-case) |
 | [0792-number-of-matching-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/rak123456805/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -222,11 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/rak123456805/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/rak123456805/LeetCode_Practice/tree/master/1124-longest-well-performing-interval) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/rak123456805/LeetCode_Practice/tree/master/1124-longest-well-performing-interval) |
 ## Two Pointers
 |  |
