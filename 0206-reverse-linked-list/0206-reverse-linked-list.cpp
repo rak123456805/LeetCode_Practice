@@ -21,10 +21,11 @@ public:
         ans.push_back(tail->val);
         reverse(ans.begin(), ans.end());
         ListNode dummy(0);
-        ListNode* value = &dummy;
-        for (auto& a : ans) {
-            value->next = new ListNode(a);
-            value = value->next;
+        ListNode* value=&dummy;
+        for(auto &x : ans){
+            value->next=new ListNode(x);
+            value=value->next;
+
         }
         return dummy.next;
     }
