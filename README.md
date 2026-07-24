@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/rak123456805/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/rak123456805/LeetCode_Practice/tree/master/1124-longest-well-performing-interval) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0825-friends-of-appropriate-ages](https://github.com/rak123456805/LeetCode_Practice/tree/master/0825-friends-of-appropriate-ages) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rak123456805/LeetCode_Practice/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -377,5 +380,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
