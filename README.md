@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rak123456805/LeetCode_Practice/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
