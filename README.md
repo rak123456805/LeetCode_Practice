@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rak123456805/LeetCode_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0474-ones-and-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0792-number-of-matching-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rak123456805/LeetCode_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rak123456805/LeetCode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0792-number-of-matching-subsequences) |
@@ -314,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -413,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
