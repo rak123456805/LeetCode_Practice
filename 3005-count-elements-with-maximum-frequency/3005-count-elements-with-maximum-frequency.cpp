@@ -7,15 +7,15 @@ public:
         for(int i=0;i<nums.size();i++){
             mp[nums[i]]++;
         }
+        for(auto &it:mp){
+            cnt=max(cnt,it.second);
+        }
+        int ans=0;
         for(auto &it : mp){
-            if(it.second>mx){
-                cnt=it.second;
-                mx=it.second;
-            }
-            else if(it.second==mx){
-                cnt+=it.second;
+            if(cnt==it.second){
+                ans+=it.second;
             }
         }
-        return cnt;
+        return ans;
     }
 };
