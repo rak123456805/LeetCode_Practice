@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/rak123456805/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rak123456805/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0213-house-robber-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rak123456805/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/rak123456805/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
