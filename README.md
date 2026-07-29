@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rak123456805/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rak123456805/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rak123456805/LeetCode_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rak123456805/LeetCode_Practice/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
