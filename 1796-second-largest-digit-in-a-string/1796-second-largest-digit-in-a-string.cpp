@@ -10,10 +10,10 @@ public:
         int fi=-1;
         int sec=-1;
         for(auto &it : mp){
-            int l=it.first-'0';
-            if(l>fi){
+            int val=it.first-'0';
+            if(val>fi){
                 sec=fi;
-                fi=l;
+                fi=val;
             }
         }
         return sec;
