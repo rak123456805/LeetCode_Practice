@@ -1,18 +1,17 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int res = nums[0];
-        int total = 0;
-
-        for (int n : nums) {
-            if (total < 0) {
-                total = 0;
+        int cursum=0;
+        int maxsum=nums[0];
+        for(auto &it:nums){
+            cursum+=it;
+            if(cursum>maxsum){
+                maxsum=cursum;
             }
-
-            total += n;
-            res = max(res, total);
+            if(cursum<0){
+                cursum=0;
+            }
         }
-
-        return res;        
+        return maxsum;
     }
 };
