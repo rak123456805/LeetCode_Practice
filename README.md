@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
