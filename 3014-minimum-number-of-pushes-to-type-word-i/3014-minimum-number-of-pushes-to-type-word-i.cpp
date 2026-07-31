@@ -1,17 +1,17 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n=word.size();
-        int assign=2;
-        unordered_map<int,int>mp;
-        int ans=0;
-        for(auto &it :word){
-            if(assign>9){
-                assign=2;
-            }
-            mp[assign]++;
-            ans+=mp[assign];
-            assign++;
+        int n = word.size();
+        vector<int> freq(26, 0);
+        for (auto& it : word) {
+            freq[it - 'a']++;
+        }
+        int ans = 0;
+        sort(freq.rbegin(), freq.rend());
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] == 0)
+                break;
+            ans += freq[i] * (i / 8 + 1);
         }
         return ans;
     }
