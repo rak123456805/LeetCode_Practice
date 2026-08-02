@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/rak123456805/LeetCode_Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/rak123456805/LeetCode_Practice/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0877-stone-game) |
 | [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
 | [1124-longest-well-performing-interval](https://github.com/rak123456805/LeetCode_Practice/tree/master/1124-longest-well-performing-interval) |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/rak123456805/LeetCode_Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-number-of-matching-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0877-stone-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rak123456805/LeetCode_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0754-reach-a-number) |
+| [0877-stone-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 ## Sliding Window
 |  |
