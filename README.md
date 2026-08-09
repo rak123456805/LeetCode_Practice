@@ -516,9 +516,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
