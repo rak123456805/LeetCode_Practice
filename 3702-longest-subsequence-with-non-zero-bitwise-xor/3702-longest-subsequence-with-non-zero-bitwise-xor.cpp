@@ -1,19 +1,29 @@
 class Solution {
 public:
+vector<int>dp;
+int n;
+    int solve(vector<int>&nums,int i){
+        if(i==n)return 0;
+        if(dp[i]!=-1)return dp[i];
+        return dp[i]=nums[i]^solve(nums,i+1);
+    }
     int longestSubsequence(vector<int>& nums) {
-        bool haszero = false;
-        int xr = 0;
-        for (int x : nums) {
-            xr ^= x;
-            if (x != 0) {
-                haszero = true;
+        n=nums.size();
+        dp.assign(n,-1);
+        int to=solve(nums,0);
+        if(to!=0){
+            return n;
+        }
+        int i=0;
+        int pri=0;
+        while(i<n){
+            int val=pri^solve(nums,i+1);
+            if(val!=0){
+                return n-1;
             }
+            pri^=nums[i];
+            i++;
         }
-        if (xr != 0) {
-            return nums.size();
-        }
-        if (haszero)
-            return nums.size() - 1;
         return 0;
     }
 };
