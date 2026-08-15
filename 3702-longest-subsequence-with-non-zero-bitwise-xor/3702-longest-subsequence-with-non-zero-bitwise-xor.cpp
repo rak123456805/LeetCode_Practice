@@ -15,13 +15,11 @@ int n;
             return n;
         }
         int i=0;
-        int pri=0;
         while(i<n){
-            int val=pri^solve(nums,i+1);
+            int val=nums[i]^solve(nums,i+1);
             if(val!=0){
                 return n-1;
             }
-            pri^=nums[i];
             i++;
         }
         return 0;
