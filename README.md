@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rak123456805/LeetCode_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rak123456805/LeetCode_Practice/tree/master/2029-stone-game-ix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0731-my-calendar-ii) |
 | [1124-longest-well-performing-interval](https://github.com/rak123456805/LeetCode_Practice/tree/master/1124-longest-well-performing-interval) |
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rak123456805/LeetCode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/rak123456805/LeetCode_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rak123456805/LeetCode_Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rak123456805/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rak123456805/LeetCode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/rak123456805/LeetCode_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rak123456805/LeetCode_Practice/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rak123456805/LeetCode_Practice/tree/master/2029-stone-game-ix) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rak123456805/LeetCode_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rak123456805/LeetCode_Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rak123456805/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Sliding Window
@@ -569,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rak123456805/LeetCode_Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rak123456805/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -576,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rak123456805/LeetCode_Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rak123456805/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
