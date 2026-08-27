@@ -16,13 +16,13 @@ public:
             if(greater==false && ch<target[i]){
                 continue;
             }
-            curr.push_back(ch);
+            curr.push_back(ch); //take
             count[ch-'a']--;
             bool isGreater=greater||ch>target[i];
-            if(solve(curr,count,target,i+1,isGreater)){
+            if(solve(curr,count,target,i+1,isGreater)){//explore
                 return true;
             }
-            curr.pop_back();
+            curr.pop_back();//back
             count[ch-'a']++;
         }
         return false;
