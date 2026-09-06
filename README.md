@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/rak123456805/LeetCode_Practice/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rak123456805/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0213-house-robber-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/rak123456805/LeetCode_Practice/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
