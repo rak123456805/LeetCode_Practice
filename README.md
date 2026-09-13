@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/rak123456805/LeetCode_Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/rak123456805/LeetCode_Practice/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/rak123456805/LeetCode_Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0877-stone-game) |
 | [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
 | [1124-longest-well-performing-interval](https://github.com/rak123456805/LeetCode_Practice/tree/master/1124-longest-well-performing-interval) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/rak123456805/LeetCode_Practice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rak123456805/LeetCode_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
