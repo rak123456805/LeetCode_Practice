@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/rak123456805/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/rak123456805/LeetCode_Practice/tree/master/1563-stone-game-v) |
 | [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rak123456805/LeetCode_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rak123456805/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rak123456805/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rak123456805/LeetCode_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/rak123456805/LeetCode_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rak123456805/LeetCode_Practice/tree/master/1563-stone-game-v) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/rak123456805/LeetCode_Practice/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/rak123456805/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rak123456805/LeetCode_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rak123456805/LeetCode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rak123456805/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
