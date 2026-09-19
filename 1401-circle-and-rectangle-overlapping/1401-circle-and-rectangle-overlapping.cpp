@@ -4,6 +4,8 @@ public:
                       int x2, int y2) {
         int xi;
         int yi;
+
+        // finding x cordinates nearest to circle
         if (x1 > xCenter) {
             xi = x1;
         } else if (x2 < xCenter) {
@@ -12,6 +14,7 @@ public:
             xi = xCenter;
         }
 
+         // finding y cordinates nearest to circle
         if (y1 > yCenter) {
             yi = y1;
         } else if (y2 < yCenter) {
@@ -19,7 +22,11 @@ public:
         } else {
             yi = yCenter;
         }
+
+        // find the distance between the co-ordinates
         int d=sqrt((xi-xCenter)*(xi-xCenter)+(yi-yCenter)*(yi-yCenter));
+
+        //checking which is inside the cirlcle or overalping 
         return d<=radius;
     }
 };
