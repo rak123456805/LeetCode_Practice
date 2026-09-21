@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rak123456805/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rak123456805/LeetCode_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3248-snake-in-matrix](https://github.com/rak123456805/LeetCode_Practice/tree/master/3248-snake-in-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rak123456805/LeetCode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rak123456805/LeetCode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rak123456805/LeetCode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3163-string-compression-iii) |
+| [3248-snake-in-matrix](https://github.com/rak123456805/LeetCode_Practice/tree/master/3248-snake-in-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rak123456805/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rak123456805/LeetCode_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3248-snake-in-matrix](https://github.com/rak123456805/LeetCode_Practice/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rak123456805/LeetCode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
