@@ -1,28 +1,46 @@
 class Solution {
 public:
-    vector<long long> resultArray(vector<int>& nums, int k) {
-        int n = nums.size();
-        vector<long long> result(k);
-        vector<long long> dp(k);  // Initial state: no elements have been
-                                  // processed, so no non-empty subarray exists.
+    int n;
+    vector<vector<long long>> dp;
 
-        for (int i = 0; i < n; i++) {
-            vector<long long> ndp(k);  // Current-layer state (rolling array).
+    long long solve(int i, int j, int k, vector<int>& nums) {
+        if (i < 0)
+            return 0;
 
-            ndp[nums[i] % k]++;
+        if (dp[i][j] != -1)
+            return dp[i][j];
 
-            for (int r = 0; r < k; r++) {
-                ndp[(long long)r * nums[i] % k] += dp[r];
-            }
+        long long ans = 0;
 
-            dp = move(ndp);  // Update the state.
+        // Subarray containing only nums[i]
+        if (j == nums[i] % k) {
+            ans++;
+        }
 
-            // Accumulate the answer.
-            for (int r = 0; r < k; r++) {
-                result[r] += dp[r];
+        // Extend previous subarrays
+        for (int prev = 0; prev < k; prev++) {
+            if ((prev * (nums[i] % k)) % k == j) {
+                ans += solve(i - 1, prev, k, nums);
             }
         }
 
-        return result;
+        return dp[i][j] = ans;
+    }
+
+    vector<long long> resultArray(vector<int>& nums, int k) {
+        n = nums.size();
+
+        dp.assign(n, vector<long long>(k, -1));
+
+        vector<long long> ans(k, 0);
+
+        // Consider every ending position
+        for (int i = 0; i < n; i++) {
+            for (int r = 0; r < k; r++) {
+                ans[r] += solve(i, r, k, nums);
+            }
+        }
+
+        return ans;
     }
 };
