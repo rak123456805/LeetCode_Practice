@@ -8,22 +8,25 @@ public:
         string val = "";
         int j = 0;
         for (int i = 0; i < s.size(); i++) {
-            if(s[i]=='('){
+            if (s[i] == '(') {
+                j = i;
                 i++;
-                string ans="";
-                while(s[i]!=')'){
-                    ans+=s[i];
+                val.clear();
+                while (i < s.size() && s[i] != ')') {
+                    val += s[i];
                     i++;
                 }
-                if(mp.find(ans)!=mp.end()){
-                    val+=mp[ans];
-                }else{
-                    val+='?';
+                string replacement;
+
+                if (mp.find(val) != mp.end()) {
+                    replacement = mp[val];
+                } else {
+                    replacement = "?";
                 }
-            }else{
-                val+=s[i];
+                s.replace(j, i - j + 1, replacement);
+                i = j + replacement.size() - 1;
             }
         }
-        return val;
+        return s;
     }
 };
