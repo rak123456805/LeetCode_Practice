@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rak123456805/LeetCode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rak123456805/LeetCode_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1872-stone-game-viii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rak123456805/LeetCode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rak123456805/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rak123456805/LeetCode_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rak123456805/LeetCode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rak123456805/LeetCode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rak123456805/LeetCode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
