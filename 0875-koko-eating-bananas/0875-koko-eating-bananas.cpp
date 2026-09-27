@@ -1,24 +1,28 @@
 class Solution {
 public:
-   
-    bool chk(long long mid , vector<int>&piles , int h){
-        long long cnt = 0;
-        for(int i = 0; i < piles.size(); i++){
-            cnt += (piles[i] + mid - 1) / mid;
+    bool solve(long long mid,vector<int>&piles,int k){
+        long long cnt=0;
+        for(auto &x :piles){
+            cnt+=(x/mid);
+            if(x%mid!=0){
+                cnt++;
+            }
         }
-
-        return cnt <= h;
+        return cnt<=k;
     }
-
     int minEatingSpeed(vector<int>& piles, int h) {
-      long long lo = 1 , hi = 1e9 , ans = 0;
-      while(lo <= hi){
-        long long mid = (lo + hi) / 2;
-        if(chk(mid , piles , h)) ans = mid , hi = mid - 1;
-        else lo = mid + 1;
-      }
-
-      return ans;
-
+        int lo=1;
+        int
+         hi=*max_element(piles.begin(),piles.end());
+        int ans=0;
+        while(lo<=hi){
+            long long mid=(lo+hi)/2;
+            if(solve(mid,piles,h)){
+                hi=mid-1;
+            }else{
+                lo=mid+1;
+            }
+        }
+        return lo;
     }
 };
