@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rak123456805/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/rak123456805/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rak123456805/LeetCode_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rak123456805/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rak123456805/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rak123456805/LeetCode_Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rak123456805/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rak123456805/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rak123456805/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rak123456805/LeetCode_Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rak123456805/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rak123456805/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
