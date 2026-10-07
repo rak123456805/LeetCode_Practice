@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rak123456805/LeetCode_Practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/rak123456805/LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rak123456805/LeetCode_Practice/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1096-brace-expansion-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
