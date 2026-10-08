@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rak123456805/LeetCode_Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rak123456805/LeetCode_Practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rak123456805/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/rak123456805/LeetCode_Practice/tree/master/0835-image-overlap) |
