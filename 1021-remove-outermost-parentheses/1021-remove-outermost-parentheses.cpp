@@ -11,9 +11,7 @@ public:
             } else {
                 op--;
                 if (op == 0) {
-                    dub.erase(0, 1);
-                    cout << dub << " ";
-                    ans += dub;
+                    ans.append(dub.begin() + 1, dub.end());
                     dub = "";
                     op = 0;
                 } else {
