@@ -8,8 +8,7 @@ public:
             int mid=lo+(hi-lo)/2;
             if(nums[mid]==mid){
                 lo=mid+1;
-            }
-            else{
+            }else{
                 hi=mid-1;
             }
         }
