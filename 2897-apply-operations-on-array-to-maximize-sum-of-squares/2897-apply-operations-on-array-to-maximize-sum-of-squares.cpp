@@ -1,26 +1,25 @@
 class Solution {
 public:
-    int M = 1e9 + 7;
     int maxSum(vector<int>& nums, int k) {
-        vector<int> bit(32, 0);
-        for (int& num : nums) {
-            for (int j = 0; j < 32; j++) {
-                if (num & (1 << j)) { //and operation gives whether there is an 1 in that position
-                    bit[j]++;
+        int M=1e9+7;
+        vector<int>bit(32,0);
+        for(int &num : nums){
+            for(int i=0;i<32;i++){
+                if(num & (1<<i)){
+                    bit[i]++;
                 }
             }
         }
-        long long result = 0;
-        while (k--) {
-            long long curr = 0;
-            for (int i = 0; i < bit.size(); i++) {
-
-                if (bit[i] > 0) {
+        long long result=0;
+        while(k--){
+            long long curr=0;
+            for(int i=0;i<bit.size();i++){
+                if(bit[i]>0){
                     bit[i]--;
-                    curr = (curr | (1 << i)); // or operation adds the value
+                    curr=(curr|(1<<i));
                 }
             }
-            result = (result + (curr * curr)) % M;
+            result=(result+(curr*curr))%M;
         }
         return result;
     }
