@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rak123456805/LeetCode_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/rak123456805/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0509-fibonacci-number) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/rak123456805/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rak123456805/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/rak123456805/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/rak123456805/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
