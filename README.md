@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rak123456805/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/rak123456805/LeetCode_Practice/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rak123456805/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/rak123456805/LeetCode_Practice/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rak123456805/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rak123456805/LeetCode_Practice/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/rak123456805/LeetCode_Practice/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/rak123456805/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rak123456805/LeetCode_Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
