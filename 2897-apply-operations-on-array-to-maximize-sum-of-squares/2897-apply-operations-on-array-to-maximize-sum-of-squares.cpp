@@ -5,7 +5,7 @@ public:
         vector<int> bit(32, 0);
         for (int& num : nums) {
             for (int j = 0; j < 32; j++) {
-                if (num & (1 << j)) {
+                if (num & (1 << j)) { //and operation gives whether there is an 1 in that position
                     bit[j]++;
                 }
             }
@@ -17,7 +17,7 @@ public:
 
                 if (bit[i] > 0) {
                     bit[i]--;
-                    curr = (curr | (1 << i));
+                    curr = (curr | (1 << i)); // or operation adds the value
                 }
             }
             result = (result + (curr * curr)) % M;
