@@ -1,0 +1,18 @@
+class Solution {
+public:
+    string maxSumOfSquares(int num, int sum) {
+        if(sum>9*num || (sum==0 && num>1)){
+            return "";
+        }
+        string answer="";
+        for(int i=0;i<num;i++){
+            int digit=min(9,sum);
+            answer+=to_string(digit);
+            sum-=digit;
+        }
+        if(sum>0)
+            return "";
+
+    return answer;
+    }
+};
