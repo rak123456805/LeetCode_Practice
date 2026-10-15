@@ -14,7 +14,6 @@ public:
         int ans=0;
         for(int i=0;i<st.size();i++){
             int val=st[i].size();
-            cout<<val<<" ";
             ans+=(val*val);
         }
         return ans;
