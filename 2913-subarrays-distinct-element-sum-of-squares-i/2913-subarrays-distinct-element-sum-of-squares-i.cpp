@@ -3,11 +3,11 @@ public:
     int sumCounts(vector<int>& nums) {
         vector<set<int>> st;
         int n=nums.size();
-        for (int i = 0; i < n; i++) {
+         for (int i = 0; i < n; i++) {
+            set<int> sub;
+
             for (int j = i; j < n; j++) {
-                set<int> sub;
-                for (int k = i; k <= j; k++)
-                    sub.insert(nums[k]);
+                sub.insert(nums[j]);
                 st.push_back(sub);
             }
         }
