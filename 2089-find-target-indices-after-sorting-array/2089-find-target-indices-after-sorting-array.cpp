@@ -12,9 +12,6 @@ public:
                 break;
             }
         }
-        if(ans.size()==0){
-            return {};
-        }
         return ans;
     }
 };
