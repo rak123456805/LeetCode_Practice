@@ -2,37 +2,46 @@
 class Solution {
 public:
     int findUnsortedSubarray(vector<int>& nums) {
-        vector<int> ans;
         int n = nums.size();
 
-        for (int i = 0; i + 1 < n; i++) {
-            if (nums[i + 1] < nums[i]) {
-                ans.push_back(i);
+        if(n <= 1) return 0;
+
+        int mini = INT_MAX;
+        int maxi = INT_MIN;
+
+        for(int i = 0; i < n; i++) {
+            if(i == 0) {
+                if(nums[i] > nums[i+1]) {
+                    mini = min(mini, nums[i]);
+                    maxi = max(maxi, nums[i]);
+                }
+            }
+            else if(i == n-1) {
+                if(nums[i] < nums[i-1]) {
+                    mini = min(mini, nums[i]);
+                    maxi = max(maxi, nums[i]);
+                }
+            }
+            else {
+                if(nums[i] < nums[i-1] || nums[i] > nums[i+1]) {
+                    mini = min(mini, nums[i]);
+                    maxi = max(maxi, nums[i]);
+                }
             }
         }
 
-        if (ans.size() == 0)
-            return 0;
+        if(mini == INT_MAX) return 0;
 
-        int st = ans[0];
-        int en = ans[ans.size() - 1] + 1;
+        int s = 0, l = n-1;
 
-        int mini = nums[st];
-        int maxi = nums[st];
-
-        for (int i = st; i <= en; i++) {
-            mini = min(mini, nums[i]);
-            maxi = max(maxi, nums[i]);
+        while(s < n && nums[s] <= mini) {
+            s++;
         }
 
-        while (st > 0 && nums[st - 1] > mini) {
-            st--;
+        while(l >= 0 && nums[l] >= maxi) {
+            l--;
         }
 
-        while (en < n - 1 && nums[en + 1] < maxi) {
-            en++;
-        }
-
-        return en - st + 1;
+        return l - s + 1;
     }
 };
