@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/rak123456805/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rak123456805/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rak123456805/LeetCode_Practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/rak123456805/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rak123456805/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rak123456805/LeetCode_Practice/tree/master/0231-power-of-two) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rak123456805/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rak123456805/LeetCode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rak123456805/LeetCode_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rak123456805/LeetCode_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
