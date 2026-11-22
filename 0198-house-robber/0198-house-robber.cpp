@@ -5,9 +5,9 @@ public:
     int solve(vector<int>&nums,int i){
         if(i>=n )return 0;
         if(dp[i]!=-1)return dp[i];
-        int ans=0;
-        ans+=nums[i]+solve(nums,i+2);
-        return dp[i]=ans;
+        int sel=nums[i]+solve(nums,i+2);
+        int no=solve(nums,i+1);
+        return dp[i]=max(sel,no);
     }
     int rob(vector<int>& nums) {
         n=nums.size();
