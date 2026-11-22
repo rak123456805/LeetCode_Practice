@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rak123456805/LeetCode_Practice/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rak123456805/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rak123456805/LeetCode_Practice/tree/master/0078-subsets) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rak123456805/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rak123456805/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rak123456805/LeetCode_Practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/rak123456805/LeetCode_Practice/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/rak123456805/LeetCode_Practice/tree/master/0835-image-overlap) |
