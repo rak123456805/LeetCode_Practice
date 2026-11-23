@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rak123456805/LeetCode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/rak123456805/LeetCode_Practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rak123456805/LeetCode_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rak123456805/LeetCode_Practice/tree/master/0338-counting-bits) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rak123456805/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/rak123456805/LeetCode_Practice/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/rak123456805/LeetCode_Practice/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/rak123456805/LeetCode_Practice/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1096-brace-expansion-ii) |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/rak123456805/LeetCode_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0494-target-sum) |
@@ -1051,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/rak123456805/LeetCode_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
