@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rak123456805/LeetCode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/rak123456805/LeetCode_Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rak123456805/LeetCode_Practice/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/rak123456805/LeetCode_Practice/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -1035,8 +1038,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
