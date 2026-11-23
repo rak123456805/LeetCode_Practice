@@ -1037,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -1044,4 +1045,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
