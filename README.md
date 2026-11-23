@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rak123456805/LeetCode_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rak123456805/LeetCode_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rak123456805/LeetCode_Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rak123456805/LeetCode_Practice/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/rak123456805/LeetCode_Practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0509-fibonacci-number) |
@@ -1029,4 +1031,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
