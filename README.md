@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/rak123456805/LeetCode_Practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rak123456805/LeetCode_Practice/tree/master/0062-unique-paths) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rak123456805/LeetCode_Practice/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/rak123456805/LeetCode_Practice/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/rak123456805/LeetCode_Practice/tree/master/0455-assign-cookies) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rak123456805/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/rak123456805/LeetCode_Practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rak123456805/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rak123456805/LeetCode_Practice/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/rak123456805/LeetCode_Practice/tree/master/0072-edit-distance) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rak123456805/LeetCode_Practice/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/rak123456805/LeetCode_Practice/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rak123456805/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rak123456805/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
