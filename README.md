@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rak123456805/LeetCode_Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/rak123456805/LeetCode_Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rak123456805/LeetCode_Practice/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -663,10 +666,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -1078,4 +1083,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/rak123456805/LeetCode_Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/rak123456805/LeetCode_Practice/tree/master/1143-longest-common-subsequence) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
