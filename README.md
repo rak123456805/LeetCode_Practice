@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/rak123456805/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rak123456805/LeetCode_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rak123456805/LeetCode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rak123456805/LeetCode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/rak123456805/LeetCode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2747-count-zero-request-servers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rak123456805/LeetCode_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rak123456805/LeetCode_Practice/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rak123456805/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rak123456805/LeetCode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rak123456805/LeetCode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rak123456805/LeetCode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rak123456805/LeetCode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/rak123456805/LeetCode_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -765,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rak123456805/LeetCode_Practice/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/rak123456805/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rak123456805/LeetCode_Practice/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rak123456805/LeetCode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Breadth-First Search
 |  |
