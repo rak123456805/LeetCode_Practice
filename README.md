@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/rak123456805/LeetCode_Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/rak123456805/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rak123456805/LeetCode_Practice/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/rak123456805/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
 | [0931-minimum-falling-path-sum](https://github.com/rak123456805/LeetCode_Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rak123456805/LeetCode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0567-permutation-in-string) |
 | [0792-number-of-matching-subsequences](https://github.com/rak123456805/LeetCode_Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0904-fruit-into-baskets](https://github.com/rak123456805/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/rak123456805/LeetCode_Practice/tree/master/0911-online-election) |
 | [1096-brace-expansion-ii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1096-brace-expansion-ii) |
 | [1124-longest-well-performing-interval](https://github.com/rak123456805/LeetCode_Practice/tree/master/1124-longest-well-performing-interval) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rak123456805/LeetCode_Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rak123456805/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rak123456805/LeetCode_Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/rak123456805/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rak123456805/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rak123456805/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rak123456805/LeetCode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
