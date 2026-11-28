@@ -2,6 +2,8 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n=s.size();
+        if(n==0)return 0;
+        if(n==1)return 1;
         int ans=INT_MIN;
         unordered_map<char,int>mp;
         int le=0;
@@ -13,6 +15,6 @@ public:
             }
             ans=max(ans,ri-le+1);
         }
-        return ans==INT_MIN?0:ans;
+        return ans;
     }
 };
